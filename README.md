@@ -28,7 +28,7 @@ I am a Full Stack .NET Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - :seedling: Exploring Node.JS
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
 - :mailbox:How to reach me:  Email: simbakeith@outlook.com Contact: +263 784 321 913
 
